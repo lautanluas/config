@@ -1,0 +1,1 @@
+{"url_server":"http://10.102.3.42:8000/api/","url_server_beta":"http://10.102.3.42:8000/public/api/","version":"1.0","envi":"allow","envi_message":"Apps is Block"}
